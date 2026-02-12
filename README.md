@@ -1,1 +1,0 @@
-# Fairview_ICT10_Q3Seatwork2_Andes_Akingson
