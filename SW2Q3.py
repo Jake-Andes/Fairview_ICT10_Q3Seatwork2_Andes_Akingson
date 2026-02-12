@@ -1,4 +1,3 @@
-# ...existing code...
 from pyscript import document  # type: ignore
 
 def adding_numbers(e=None):
@@ -40,7 +39,7 @@ def adding_numbers(e=None):
     else:
         status = "Not eligible — clinic slip and online registration missing."
 
-    # image per team (replace URLs with your images if available)
+    # image per team
     team_images = {
         "Blue Bears": "https://cdn.discordapp.com/attachments/1146819570447962162/1466262644762869953/Screenshot_2026-01-29_at_10.00.47_AM.png?ex=697c1b00&is=697ac980&hm=a68a16561f3635b152b96997e0c7285c7da6012a918a6c0ef08d2e83fce16575&",
         "Yellow Tigers": "https://cdn.discordapp.com/attachments/1273757083979878461/1466262276180017253/Screenshot_2026-01-29_at_10.00.23_AM.png?ex=697c1aa8&is=697ac928&hm=3432957c9514d4c7b37acfb71f2cb877945d593f8f93b9bc4b23f0ce47f15823&",
